@@ -1,5 +1,9 @@
 # Project_1_Intelligent_Scissor
-This intelligent scissor allows a user to cut an object out of one image and paste it into another, and it helps the user trace the object by providing a "live wire" that automatically snaps to and wraps around the object of interest.
+This intelligent scissor allows a user to cut an object out of one image and paste it into another, and it helps the user trace the object by providing a "live wire" that automatically snaps to and wraps around the object of interest.<br />
+
+Detailed project description:
+* [Intelligent Scissor](https://course.cse.ust.hk/comp5421/Password_Only/projects/iscissor/index.html) - HKUST ITSC required to log in. <br />
+
 
 Run `UI.m` with MATLAB to start the program, MATLAB Runtime (Version# `9.1` or above) may be needed. <br />
 Windows users may also run the program directly via `UI.exe`.
